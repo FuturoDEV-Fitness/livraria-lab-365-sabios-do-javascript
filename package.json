@@ -7,7 +7,8 @@
     "livros": "nodemon src/livros.js",
     "auditorios": "nodemon src/auditorios.js",
     "leitores": "nodemon src/leitores.js",
-    "instrumentos": "nodemon src/instrumentos.js"
+    "instrumentos": "nodemon src/instrumentos.js",
+    "autores": "nodemon src/autores.js"
   },
   "keywords": [],
   "author": "",
